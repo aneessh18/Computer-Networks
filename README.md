@@ -11,3 +11,10 @@ Mainly 5 modes of IPC were used
 
 Introduction to reverse proxy 
 https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
+
+Introduction to content distribution network
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+How DNS works ?
+https://www.cloudflare.com/learning/dns/what-is-dns/
+
